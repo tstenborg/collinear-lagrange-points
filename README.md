@@ -1,4 +1,4 @@
-# Collinear Lagrange Points in the Circular Restricted Three-Body Problem with Radiation Pressure
+# Collinear Lagrange Point Solutions in the Circular Restricted Three-Body Problem with Radiation Pressure using Fortran
 
 [![super-linter](../../actions/workflows/super-linter.yml/badge.svg)](../../actions/workflows/super-linter.yml) ![human-only code](https://img.shields.io/badge/human--only-code-white)
 
