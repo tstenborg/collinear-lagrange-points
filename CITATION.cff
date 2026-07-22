@@ -1,0 +1,43 @@
+cff-version: 1.2.0
+title: "Collinear Lagrange Point Solutions in the Circular Restricted Three-Body Problem with Radiation Pressure using Fortran"
+message: "If you use this repository, please cite it using these metadata."
+type: software
+authors:
+  - given-names: Travis
+    family-names: Stenborg
+    orcid: "https://orcid.org/0000-0002-2693-9628"
+url: "https://github.com/tstenborg/collinear-lagrange-points"
+abstract: >-
+  "A Fortran collinear Lagrange points calculator."
+keywords:
+  - astronomy
+  - "lagrange-points"
+  - "three-body-problem"
+preferred-citation:
+  authors:
+    - given-names: "Travis N."
+      family-names: Stenborg
+  collection-title: "Astronomical Data Analysis Software and Systems XVII"
+  conference:
+    # "conference, name" appears in BibTeX format only, as "series".
+    name: "Astronomical Society of the Pacific Conference Series, volume 394"
+  editors:
+    # "editors" appear in BibTeX format only, as "editor".
+    - given-names: "Robert W."
+      family-names: Argyle
+    - given-names: "Peter S."
+      family-names: Bunclark
+    - given-names: "James R."
+      family-names: Lewis
+  end: 737  # Last page number.
+  # "notes" values should be formatted as single lines.
+  month: 8
+  notes: "Proceedings of Astronomical Data Analysis Software and Systems (ADASS) XVII, a conference held at the Kensington Town Hall, London, United Kingdom, 23 to 26 Sep, 2007."
+  publisher:
+    # "publisher, name" appears in BibTeX format only, as "publisher".
+    name: "Astronomical Society of the Pacific"
+  start: 734  # First page number.
+  title: "Collinear Lagrange Point Solutions in the Circular Restricted Three-Body Problem with Radiation Pressure using Fortran"
+  type: conference-paper
+  volume: 394  # Appears in APA format only.
+  year: 2008
